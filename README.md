@@ -12,7 +12,7 @@ Os arquivos serão adicionados ao repositório conforme as atividades forem real
 
 ### Exercícios de Python
 
-**1-Arquivo:** `Exercícios_Python_Raynan_TurmaB_Período6_Noturno.ipynb`
+**1º Arquivo:** `Exercícios_Python_Raynan_TurmaB_Período6_Noturno.ipynb`
 
 Notebook desenvolvido no Google Colab contendo **50 exercícios de Python**, com atividades que abordam diferentes conceitos da linguagem, desde fundamentos até conteúdos de nível intermediário.
 
