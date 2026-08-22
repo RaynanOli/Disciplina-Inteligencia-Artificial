@@ -1,6 +1,6 @@
 # Disciplina de Inteligência Artificial
 
-Repositório acadêmico destinado ao armazenamento das atividades, exercícios, trabalhos e notebooks desenvolvidos durante a disciplina de **Inteligência Artificial**.
+Repositório acadêmico destinado ao armazenamento dos exercícios, trabalhos e notebooks desenvolvidos durante a disciplina de **Inteligência Artificial**.
 
 ## 📚 Sobre a disciplina
 
