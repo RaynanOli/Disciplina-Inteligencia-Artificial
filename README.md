@@ -166,8 +166,8 @@ Disciplina-Inteligencia-Artificial/
 │
 ├── Exercícios_Python_Raynan_TurmaB_Período6_Noturno.ipynb
 ├── Exercícios2_Bibliotecas_Raynan_TurmaB_Período6_Noturno.ipynb
-├── vendas.xlsx
-└── README.md
+├── README.md
+└── vendas.xlsx
 ```
 
 A organização será mantida de forma a facilitar a identificação e consulta de cada atividade.
